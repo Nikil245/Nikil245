@@ -103,15 +103,7 @@ A research-based academic project focused on automating institutional workflows 
 - Shared institutional context store  
 - Rule-based workflows with LLM-powered orchestration  
 - Designed for Indian educational institutions  
-## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nikil245&show_icons=true&theme=tokyonight&hide_border=true" alt="Nikil's GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikil245&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
----
 
 ## 📊 GitHub Activity
 
