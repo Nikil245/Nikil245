@@ -113,13 +113,15 @@ A research-based academic project focused on automating institutional workflows 
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nikil245&theme=tokyonight)
+I am actively building projects and improving my development skills through hands-on practice.
 
----
-
-## 🌐 Connect With Me
+- 🔥 Building real-world web applications
+- 🧠 Learning Docker and Kubernetes
+- ⚙️ Improving backend development
+- 🤖 Working on AI + Software Engineering projects
+- 📌 Maintaining projects on GitHub
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nikil245-181717?style=for-the-badge&logo=github)](https://github.com/Nikil245)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikil_S_Suvarna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
