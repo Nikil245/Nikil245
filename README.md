@@ -120,7 +120,7 @@ A research-based academic project focused on automating institutional workflows 
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nikil245-181717?style=for-the-badge&logo=github)](https://github.com/Nikil245)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikil_S_Suvarna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_LINK_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikil_S_Suvarna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![Instagram](https://img.shields.io/badge/Instagram-nikil_suvarna-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikil_suvarna?igsh=MXVja3Z1NXBjYXM0OQ==)
 
 ---
