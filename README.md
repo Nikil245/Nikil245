@@ -128,7 +128,7 @@ A research-based academic project focused on automating institutional workflows 
 ## ✨ Current Focus
 
 ```txt
-Learning Full-Stack Development
-Building Portfolio Website
-Improving GitHub Profile
+Completed Full-Stack Development Foundation
+Currently Learning Docker and Kubernetes
+Improving Backend Development
 Working on AI + Software Engineering Projects
