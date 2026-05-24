@@ -33,7 +33,11 @@ I enjoy working on web development, problem-solving, and academic projects that 
 ### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-<p>REST API, Passport.js</p>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black" />
 </p>
 
 ### Databases
