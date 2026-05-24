@@ -32,7 +32,7 @@ I enjoy working on web development, problem-solving, and academic projects that 
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,rest,passport" />
 </p>
 
 ### Databases
