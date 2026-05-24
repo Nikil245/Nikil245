@@ -55,7 +55,8 @@ I enjoy working on web development, problem-solving, and academic projects that 
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,postman" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### AI Productivity Tools
