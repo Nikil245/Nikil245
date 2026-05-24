@@ -33,8 +33,7 @@ I enjoy working on web development, problem-solving, and academic projects that 
 ### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
- <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/passport/express-passport-logo/master/passportjs.png" width="48" height="48" />
+<p>REST API, Passport.js</p>
 </p>
 
 ### Databases
