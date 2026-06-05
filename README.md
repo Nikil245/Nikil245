@@ -54,7 +54,7 @@ I enjoy working on web development, problem-solving, and academic projects that 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,postman,linux" />
   <img src="https://iconlogovector.com/uploads/images/2024/09/lg-66efed39689d5-Microsoft-Windows-11.webp" width="48" height="48" alt="Windows 11" />
-  <img src="https://iconlogovector.com/uploads/images/2025/07/lg-6866f3df6336b-Zorin-OS.webp" width="48" height="48" alt="Zorin OS" />
+  <img src="https://logowik.com/content/uploads/images/zorin-os2931.jpg" width="48" height="48" alt="Zorin OS" />
   <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc-512x472.png" width="48" height="48" alt="Google Antigravity" />
   <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
