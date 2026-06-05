@@ -55,10 +55,11 @@ I enjoy working on web development, problem-solving, and academic projects that 
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,postman" />
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,postman,linux" />
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Zorin_OS-15A6F0?style=for-the-badge&logo=zorin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### AI Productivity Tools
