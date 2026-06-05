@@ -33,9 +33,6 @@ I enjoy working on web development, problem-solving, and academic projects that 
 ### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black" />
 </p>
@@ -47,33 +44,33 @@ I enjoy working on web development, problem-solving, and academic projects that 
 
 ### AI / ML & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <img src="https://pypi-camo.freetls.fastly.net/00290f86d71911993c4d2c6ac743537a235c2692/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6e756d70792f6e756d70792f6d61696e2f6272616e64696e672f6c6f676f2f7072696d6172792f6e756d70796c6f676f2e737667" width="48" height="48" alt="NumPy" />
+  <img src="https://pypi-camo.freetls.fastly.net/705545a847e60d6d4478c76a8146b9000e339c1c/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667" width="48" height="48" alt="Pandas" />
+  <img src="https://images.seeklogo.com/logo-png/33/1/scikit-learn-logo-png_seeklogo-337685.png" width="48" height="48" alt="Scikit-learn" />
 </p>
 
 ### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,postman,linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://iconlogovector.com/uploads/images/2024/09/lg-66efed39689d5-Microsoft-Windows-11.webp" width="48" height="48" alt="Windows 11" />
   <img src="https://iconlogovector.com/uploads/images/2025/07/lg-6866f3df6336b-Zorin-OS.webp" width="48" height="48" alt="Zorin OS" />
+  <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc-512x472.png" width="48" height="48" alt="Google Antigravity" />
   <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### AI Productivity Tools
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://1000logos.net/wp-content/uploads/2023/02/ChatGPT-Logo.png" width="48" height="48" alt="ChatGPT" />
+  <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/claude-logo.png" width="48" height="48" alt="Claude" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" width="48" height="48" alt="Codex" />
 </p>
 
 ### Productivity Tools
 <p>
-  <img src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+  <img src="https://images.seeklogo.com/logo-png/37/1/microsoft-word-logo-png_seeklogo-370283.png" width="48" height="48" alt="Microsoft Word" />
+  <img src="https://imgs.search.brave.com/rq_TN64o0QbZYPcYjatsAsgVwNuw-KQFNELHZHy5a6k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudHBvaW50dGVj/aC5jb20vbXMvZXhj/ZWwvaW1hZ2VzL21z/LWV4Y2VsLWxvZ283/LnBuZw" width="48" height="48" alt="Microsoft Excel" />
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-PowerPoint-Logo.png" width="48" height="48" alt="Microsoft PowerPoint" />
 </p>
 
 ## 📌 Featured Projects
