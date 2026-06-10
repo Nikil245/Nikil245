@@ -6,7 +6,7 @@ I enjoy working on web development, problem-solving, and academic projects that 
 
 > “Keep building. Keep learning. Stay locked in.”
 
-<p align="left">
+<p align="right">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc4enpmOWZhN3hnYWRxZ25tajQyeGJtYThvbnBpcWtkeDhvYWZlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="500"/>
 </p>
 
