@@ -1,8 +1,12 @@
-# 👋 Hi there, I'm Nikil S Suvarna
+👋 Hi, I'm Nikil S Suvarna
 
-I'm an Artificial Intelligence and Machine Learning engineering student passionate about building practical software projects, learning full-stack development, and exploring AI-based systems.
+💻 AIML Engineering Student at MITE
 
-I enjoy working on web development, problem-solving, and academic projects that combine software engineering with intelligent systems.
+- 🚀 Full-Stack Developer
+- ⚙️ Currently improving Backend Development
+- 🐳 Learning Docker & Kubernetes
+- 🤖 Interested in AI and Machine Learning
+- 🌱 Building real-world software projects
 
 > “Keep building. Keep learning. Stay locked in.”
 
