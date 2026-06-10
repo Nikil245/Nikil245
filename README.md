@@ -6,6 +6,10 @@ I enjoy working on web development, problem-solving, and academic projects that 
 
 > “Keep building. Keep learning. Stay locked in.”
 
+<p align="center">
+  <img src="YOUR_GIF_LINK_HERE" width="500"/>
+</p>
+
 ---
 
 ## 🚀 About Me
