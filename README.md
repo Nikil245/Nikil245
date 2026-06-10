@@ -1,4 +1,8 @@
-👋 Hi, I'm Nikil S Suvarna
+<table>
+<tr>
+<td width="60%">
+
+# 👋 Hi, I'm Nikil S Suvarna
 
 💻 AIML Engineering Student at MITE
 
@@ -8,22 +12,17 @@
 - 🤖 Interested in AI and Machine Learning
 - 🌱 Building real-world software projects
 
-> “Keep building. Keep learning. Stay locked in.”
+> "Keep building. Keep learning. Stay locked in."
 
-<p align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc4enpmOWZhN3hnYWRxZ25tajQyeGJtYThvbnBpcWtkeDhvYWZlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="500"/>
-</p>
+</td>
 
----
+<td width="40%" align="right">
 
-## 🚀 About Me
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc4enpmOWZhN3hnYWRxZ25tajQyeGJtYThvbnBpcWtkeDhvYWZlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="350"/>
 
-- 🎓 AIML Engineering Student  
-- 💻 Learning Full-Stack Development  
-- 🤖 Interested in AI, Machine Learning, and Multi-Agent Systems  
-- 🌐 Building real-world web projects using React, Node.js, and modern tools  
-- 📚 Currently improving my DSA, Python, and software engineering skills  
-
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack
